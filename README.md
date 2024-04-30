@@ -1,0 +1,1 @@
+# floyd_steinberg_dithering
